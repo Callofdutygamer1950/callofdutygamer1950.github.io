@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.callofdutygamer1950.droptheaddy",
+        "sha256_cert_fingerprints": ["A9:7E:7A:3D:13:8F:53:2B:87:E6:D9:3F:30:2C:46:0D:F3:42:1B:1A:EB:41:4B:30:59:5A:DF:0F:4B:C2:04:12"]
+      }
+    }]
